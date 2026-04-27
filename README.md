@@ -50,3 +50,10 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=OMarMohaamed&color=blueviolet&style=flat-square" alt="Visitors" />
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OMarMohaamed /OMarMohaamed /output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OMarMohaamed /OMarMohaamed /output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OMarMohaamed /OMarMohaamed /output/pacman-contribution-graph.svg">
+</picture>
+
+###
